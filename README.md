@@ -9,11 +9,16 @@
 ![model1_2 training](https://user-images.githubusercontent.com/63045252/83539989-b01f2380-a532-11ea-85f4-9eb2de76bd0c.JPG)
 
 3. Test Accuracy
-
+![model1_3](https://user-images.githubusercontent.com/63045252/83540249-01c7ae00-a533-11ea-8907-a43429ee2fbb.JPG)
 
 4. Images and corresponding probability that predicted Right
+![model1_4 right image](https://user-images.githubusercontent.com/63045252/83540273-0a1fe900-a533-11ea-99bc-909be6905b2c.JPG)
+
+![model1_4_2 right images](https://user-images.githubusercontent.com/63045252/83540305-14da7e00-a533-11ea-9226-3c092e203ddd.JPG)
 
 5. Images and corresponding probability that predicted Wrong
+![model1_5 wrong image](https://user-images.githubusercontent.com/63045252/83540342-20c64000-a533-11ea-8279-32b4f5ef4b69.JPG)
+
 
 # 2. Model 2
 
