@@ -14,7 +14,6 @@
 
 4. Images and corresponding probability that predicted Right
 ![model1_4 right image](https://user-images.githubusercontent.com/63045252/83540273-0a1fe900-a533-11ea-99bc-909be6905b2c.JPG)
-
 ![model1_4_2 right images](https://user-images.githubusercontent.com/63045252/83540305-14da7e00-a533-11ea-9226-3c092e203ddd.JPG)
 
 5. Images and corresponding probability that predicted Wrong
