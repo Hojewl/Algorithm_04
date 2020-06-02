@@ -43,18 +43,24 @@
 # 3. Model 3
 
 1. Tested Model
+
 ![model3](https://user-images.githubusercontent.com/63045252/83543823-fa56d380-a537-11ea-9d25-5df539a9b3fe.JPG)
 ![model3_1](https://user-images.githubusercontent.com/63045252/83543825-faef6a00-a537-11ea-96aa-dcf6a85cc7e8.JPG)
 ![model3_2](https://user-images.githubusercontent.com/63045252/83543826-faef6a00-a537-11ea-9de6-7ebedd969e3b.JPG)
 
+
+
 2. Training with Training Loss
 ![model3_3](https://user-images.githubusercontent.com/63045252/83543830-fb880080-a537-11ea-82ef-18e6a98396f9.JPG)
+
 
 3. Test Accuracy
 ![model3_4](https://user-images.githubusercontent.com/63045252/83543818-f88d1000-a537-11ea-8bb1-4f975d8966ae.JPG)
 
+
 4. Images and corresponding probability that predicted Right
 ![model3_5](https://user-images.githubusercontent.com/63045252/83543819-f925a680-a537-11ea-85e0-2e1d6f563641.JPG)
+
 
 5. Images and corresponding probability that predicted Wrong
 ![model3_6 Wrong](https://user-images.githubusercontent.com/63045252/83543822-f9be3d00-a537-11ea-88e6-9b5fa918afb0.JPG)
