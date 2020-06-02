@@ -12,7 +12,9 @@
 3. Test Accuracy
 ![model1_3](https://user-images.githubusercontent.com/63045252/83540249-01c7ae00-a533-11ea-8907-a43429ee2fbb.JPG)
 
+
 4. Images and corresponding probability that predicted Right
+
 ![model1_4 right image](https://user-images.githubusercontent.com/63045252/83540273-0a1fe900-a533-11ea-99bc-909be6905b2c.JPG)
 ![model1_4_2 right images](https://user-images.githubusercontent.com/63045252/83540305-14da7e00-a533-11ea-9226-3c092e203ddd.JPG)
 
