@@ -6,9 +6,10 @@
 ![model1_1](https://user-images.githubusercontent.com/63045252/83539148-ae089500-a531-11ea-82e2-9f63c514c29f.JPG)
 
 2. Training with Training Loss
-
+![model1_2 training](https://user-images.githubusercontent.com/63045252/83539989-b01f2380-a532-11ea-85f4-9eb2de76bd0c.JPG)
 
 3. Test Accuracy
+
 
 4. Images and corresponding probability that predicted Right
 
